@@ -1,0 +1,53 @@
+body {
+    background-image: url(bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+#pic1 {
+    float: left;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+#pic3 {
+    float: right;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+#p1 {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+#p2 {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+#div3 {
+    padding-top: 200px;
+    text-align: center;
+}
+
+#div4 {
+    text-align: center;
+}
+
+#div5 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 80px;
+}
